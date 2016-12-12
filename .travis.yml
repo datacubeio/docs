@@ -1,0 +1,12 @@
+language: python
+python: 2.7
+env:
+  global:
+  - secure: a5JJmWDluagxhANzkiwOkRoFMM/tIc+Udh8WBxdqTPz5RVUKPI1Ce6QznCP0Zq8894Wh31uXrwZtnlmS9fK265gc6xr3bxRrSxYRSdH5dyMu2TeQqDOW6k05dTXndKIfNFAy2bwmKLV/eiBYr/TT9EICsjvwmNb6cGiORCr/g193mgzne1ScksdZOwrQU8B20tUxuIFWrTdWNvXlRVjKyuDaBTC4xrLjcfnNdYyAgn8mjgKURBetxgAVCzMioBQI4B6PeefeOw8cwCnGBKwEb2nGIfg8BiJFXKrfhWjZ/QLEiMEqHGP3okE443/sED7ZACs9IUlEQYYciUsH6tbcSodNagAuO2fmvxly9XuHzDUgutf9QiFZasoV5ievTlGoM+R0fOeuLN6TXEydVl2FsurrVr2JWvX33yBW6KcrUggTySaWXhld0SwFYWY5WLRuaNt0z//MIC5lyuWBhZvVGfdJ5Z4D5PPpWnkN+nRxMdCPNmu79VtEM1b2A7UXxkQhBGplce3uW6+3lxet+RrsIYwPI78gMRo1bea20M2KCkBVtEFDdkxHZ50GdJTpZUEN2Dkr5SrM4Oo+Q3H30LDtjbAUpEyX85Fa/69OHNfWLZm4LubkNvQsQTYqZ8XozjfDWft9sjPhXFBMNZfKk/0iLGmwOUO3C79WvkuBNG8XUX0=
+install: pip install mkdocs
+script:
+- git config credential.helper "store --file=.git/credentials"
+- echo "https://${GH_TOKEN}:@github.com" > .git/credentials
+- git remote remove origin
+- git remote add origin https://${GH_TOKEN}:@github.com/datacubeio/docs.git
+- mkdocs gh-deploy --clean --force
