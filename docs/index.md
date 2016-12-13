@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Documentation de datacube
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+##Qu’est-ce que Datacube ?
+Datacube propose une solution pour réaliser vos sauvegardes très rapidement et simplement sans devoir installer de multiple solution avec des configurations lourdes. Nous réalisons pour vous les sauvegardes et archivons celle-ci sans aucune action de votre part. Ainsi, vous pouvez les télécharger n'importe quand pour restaurer vos services en toute sérénités.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.s
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+##Contribuer
+Nous essayons de garder cette documentation aussi précise que possible mais vous pouvez nous signaler toute erreur ou information datée en ouvrant un ticket sur notre système de Helpdesk.
