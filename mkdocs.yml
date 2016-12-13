@@ -1,1 +1,38 @@
-site_name: My Docs
+
+# Project information
+site_name: Datacube
+site_description: A material design theme for MkDocs
+site_author: Maxence Maireaux
+site_url: http://squidfunk.github.io/mkdocs-material/
+
+# Repository
+repo_name: GitHub
+repo_url: https://github.com/datacubeio/docs
+
+# Copyright
+copyright: Copyright (c) 2016 Maxence Maireaux
+
+# Documentation and theme
+theme_dir: material
+
+# Options
+extra:
+  logo: images/logo.png
+  author:
+    github: datacubeio
+    twitter: datacubeio
+
+# Extensions
+markdown_extensions:
+  - codehilite(css_class=code)
+  - admonition
+  - toc:
+      permalink: '#'
+
+# Page tree
+pages:
+  - Accueil: index.md
+  - FAQ: faq.md
+  - Installation: install.md
+  - Configuration: config.md
+  - Restauration: restauration.md
