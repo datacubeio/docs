@@ -35,7 +35,7 @@
       <link rel="apple-touch-icon" href="{{ base_url }}/{{ config.extra.logo }}">
     {% endif %}
     {% set favicon = favicon | default("assets/images/favicon-e565ddfa3b.ico", true) %}
-    <link rel="shortcut icon" type="image/x-icon" href="{{ base_url }}/{{ favicon }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ config.extra.logo }}">
     <link rel="icon" type="image/x-icon" href="{{ base_url }}/{{ favicon }}">
     <style>
       @font-face {
