@@ -1,0 +1,139 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Documentation de datacube\n#\n\n\nQu\u2019est-ce que Datacube ?\n#\n\n\nDatacube propose une solution pour r\u00e9aliser vos sauvegardes tr\u00e8s rapidement et simplement sans devoir installer de multiple solution avec des configurations lourdes. Nous r\u00e9alisons pour vous les sauvegardes et archivons celle-ci sans aucune action de votre part. Ainsi, vous pouvez les t\u00e9l\u00e9charger n'importe quand pour restaurer vos services en toute s\u00e9r\u00e9nit\u00e9s.\n\n\nContribuer\n#\n\n\nNous essayons de garder cette documentation aussi pr\u00e9cise que possible mais vous pouvez nous signaler toute erreur ou information dat\u00e9e en ouvrant un ticket sur notre syst\u00e8me de Helpdesk.", 
+            "title": "Accueil"
+        }, 
+        {
+            "location": "/#documentation-de-datacube", 
+            "text": "", 
+            "title": "Documentation de datacube"
+        }, 
+        {
+            "location": "/#quest-ce-que-datacube", 
+            "text": "Datacube propose une solution pour r\u00e9aliser vos sauvegardes tr\u00e8s rapidement et simplement sans devoir installer de multiple solution avec des configurations lourdes. Nous r\u00e9alisons pour vous les sauvegardes et archivons celle-ci sans aucune action de votre part. Ainsi, vous pouvez les t\u00e9l\u00e9charger n'importe quand pour restaurer vos services en toute s\u00e9r\u00e9nit\u00e9s.", 
+            "title": "Qu\u2019est-ce que Datacube ?"
+        }, 
+        {
+            "location": "/#contribuer", 
+            "text": "Nous essayons de garder cette documentation aussi pr\u00e9cise que possible mais vous pouvez nous signaler toute erreur ou information dat\u00e9e en ouvrant un ticket sur notre syst\u00e8me de Helpdesk.", 
+            "title": "Contribuer"
+        }, 
+        {
+            "location": "/faq/", 
+            "text": "Foire aux questions\n#\n\n\nLes sauvegardes sont-elle chiffr\u00e9es ?\n#\n\n\nChaque sauvegarde est chiffr\u00e9e en AES256 avant d'\u00eatre envoy\u00e9e sur nos serveurs.\n\n\nO\u00f9 son stocker les sauvegardes ? R\u00e9plication ?\n#\n\n\nSur l'offre Standard, l'ensemble des donn\u00e9es sont stock\u00e9es chez OVH, il n'y a pas de r\u00e9plication externe a OVH.\nSur l'offre Entreprise, l'ensemble des donn\u00e9es sont stock\u00e9es chez OVH, AWS, Google Cloud, ainsi, nous pouvons assurer une disponibilit\u00e9 maximal de vos sauvegardes.\n\n\nDatacube est-il compatible Windows ?\n#\n\n\nNous ne proposons pas de compatibilit\u00e9 Windows pour le moment.\n\n\nQuelles sont les options de paiement disponibles ?\n#\n\n\nLe moyen de paiement par d\u00e9faut est la carte bleue et nous acceptons toutes les principales.\n\n\nEst-ce que Datacube travaille avec des revendeurs partenaires?\n#\n\n\nOui, nous le faisons. Contactez hello@datacube.io pour plus d\u2019informations.\n\n\nExiste t-il une version \u00e0 h\u00e9berger soi-m\u00eame ?\n#\n\n\nLe mod\u00e8le \u00e9conomique de Datacube est celui du Software as a Service (Saas) et il n\u2019est donc pas pr\u00e9vu pour le moment de version \u00e0 h\u00e9berger soi-m\u00eame.", 
+            "title": "FAQ"
+        }, 
+        {
+            "location": "/faq/#foire-aux-questions", 
+            "text": "", 
+            "title": "Foire aux questions"
+        }, 
+        {
+            "location": "/faq/#les-sauvegardes-sont-elle-chiffrees", 
+            "text": "Chaque sauvegarde est chiffr\u00e9e en AES256 avant d'\u00eatre envoy\u00e9e sur nos serveurs.", 
+            "title": "Les sauvegardes sont-elle chiffr\u00e9es ?"
+        }, 
+        {
+            "location": "/faq/#ou-son-stocker-les-sauvegardes-replication", 
+            "text": "Sur l'offre Standard, l'ensemble des donn\u00e9es sont stock\u00e9es chez OVH, il n'y a pas de r\u00e9plication externe a OVH.\nSur l'offre Entreprise, l'ensemble des donn\u00e9es sont stock\u00e9es chez OVH, AWS, Google Cloud, ainsi, nous pouvons assurer une disponibilit\u00e9 maximal de vos sauvegardes.", 
+            "title": "O\u00f9 son stocker les sauvegardes ? R\u00e9plication ?"
+        }, 
+        {
+            "location": "/faq/#datacube-est-il-compatible-windows", 
+            "text": "Nous ne proposons pas de compatibilit\u00e9 Windows pour le moment.", 
+            "title": "Datacube est-il compatible Windows ?"
+        }, 
+        {
+            "location": "/faq/#quelles-sont-les-options-de-paiement-disponibles", 
+            "text": "Le moyen de paiement par d\u00e9faut est la carte bleue et nous acceptons toutes les principales.", 
+            "title": "Quelles sont les options de paiement disponibles ?"
+        }, 
+        {
+            "location": "/faq/#est-ce-que-datacube-travaille-avec-des-revendeurs-partenaires", 
+            "text": "Oui, nous le faisons. Contactez hello@datacube.io pour plus d\u2019informations.", 
+            "title": "Est-ce que Datacube travaille avec des revendeurs partenaires?"
+        }, 
+        {
+            "location": "/faq/#existe-t-il-une-version-a-heberger-soi-meme", 
+            "text": "Le mod\u00e8le \u00e9conomique de Datacube est celui du Software as a Service (Saas) et il n\u2019est donc pas pr\u00e9vu pour le moment de version \u00e0 h\u00e9berger soi-m\u00eame.", 
+            "title": "Existe t-il une version \u00e0 h\u00e9berger soi-m\u00eame ?"
+        }, 
+        {
+            "location": "/install/", 
+            "text": "Installation de l'agent\n#\n\n\nDatacube propose une solution pour r\u00e9aliser vos sauvegarde tr\u00e8s rapidement et simplement sans vous prendre la t\u00eate avec de lourde configuration.\n\n\nIntroduction\n#\n\n\nDatacube n'a pas acc\u00e8s directement a votre serveur, l'agent que nous vous demandons d'installer permet de r\u00e9aliser puis d'envoyer les sauvegardes via un FTP. Ainsi nous pouvons prendre votre sauvegardes et l'archiver.\n\n\nL'ensemble des acc\u00e8s que nous vous fournissions doivent \u00eatre enregistrer de votre c\u00f4t\u00e9, et ne doivent pas \u00eatre partager avec d'autre personne.\n\n\nPr\u00e9requis\n#\n\n\nVous devez avoir cr\u00e9e un serveur sur votre interface et avoir identifier vos identifiants FTP ainsi que votre uid de serveur.\n\n\nInstallation\n#\n\n\nPour installer votre serveur vous devez ex\u00e9ctuer la commande suivante:\n\n\nwget --no-check-certificate -N https://raw.githubusercontent.com/flemzord/datacube/master/install.sh \n bash install.sh\n\n\nEn vid\u00e9o\n#", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/install/#installation-de-lagent", 
+            "text": "Datacube propose une solution pour r\u00e9aliser vos sauvegarde tr\u00e8s rapidement et simplement sans vous prendre la t\u00eate avec de lourde configuration.", 
+            "title": "Installation de l'agent"
+        }, 
+        {
+            "location": "/install/#introduction", 
+            "text": "Datacube n'a pas acc\u00e8s directement a votre serveur, l'agent que nous vous demandons d'installer permet de r\u00e9aliser puis d'envoyer les sauvegardes via un FTP. Ainsi nous pouvons prendre votre sauvegardes et l'archiver.  L'ensemble des acc\u00e8s que nous vous fournissions doivent \u00eatre enregistrer de votre c\u00f4t\u00e9, et ne doivent pas \u00eatre partager avec d'autre personne.", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/install/#prerequis", 
+            "text": "Vous devez avoir cr\u00e9e un serveur sur votre interface et avoir identifier vos identifiants FTP ainsi que votre uid de serveur.", 
+            "title": "Pr\u00e9requis"
+        }, 
+        {
+            "location": "/install/#installation", 
+            "text": "Pour installer votre serveur vous devez ex\u00e9ctuer la commande suivante:  wget --no-check-certificate -N https://raw.githubusercontent.com/flemzord/datacube/master/install.sh   bash install.sh", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/install/#en-video", 
+            "text": "", 
+            "title": "En vid\u00e9o"
+        }, 
+        {
+            "location": "/config/", 
+            "text": "Configuration de Datacube\n#\n\n\nInformation\n#\n\n\nMaintenant vous devez configurer vos premiers backup, vous avez le choix entre plusieurs profiles \"type\", il se trouve dans le r\u00e9pertoire /opt/datacube/backup_script.\nVous ne devez pas modifier les scripts directement dans ce dossier, sinon vos modifications seront \u00e9cras\u00e9es lors de la prochaine mise \u00e0 jour.\n\n\nConfiguration avanc\u00e9e\n#\n\n\nNous avons cr\u00e9\u00e9 le dossier /opt/datacube/custom_script qui vous permet d'ajouter tous les scripts que vous souhaitez sans qu'il ne soit modifi\u00e9.\nVous devez ajouter vos scripts custom dans le fichier /opt/datacube/load_script.sh comme dans l'exemple pr\u00e9sent dans celui-ci.\nVous pouvez utiliser comme base les scripts de Datacube pour r\u00e9aliser vos propre script custom.", 
+            "title": "Configuration"
+        }, 
+        {
+            "location": "/config/#configuration-de-datacube", 
+            "text": "", 
+            "title": "Configuration de Datacube"
+        }, 
+        {
+            "location": "/config/#information", 
+            "text": "Maintenant vous devez configurer vos premiers backup, vous avez le choix entre plusieurs profiles \"type\", il se trouve dans le r\u00e9pertoire /opt/datacube/backup_script.\nVous ne devez pas modifier les scripts directement dans ce dossier, sinon vos modifications seront \u00e9cras\u00e9es lors de la prochaine mise \u00e0 jour.", 
+            "title": "Information"
+        }, 
+        {
+            "location": "/config/#configuration-avancee", 
+            "text": "Nous avons cr\u00e9\u00e9 le dossier /opt/datacube/custom_script qui vous permet d'ajouter tous les scripts que vous souhaitez sans qu'il ne soit modifi\u00e9.\nVous devez ajouter vos scripts custom dans le fichier /opt/datacube/load_script.sh comme dans l'exemple pr\u00e9sent dans celui-ci.\nVous pouvez utiliser comme base les scripts de Datacube pour r\u00e9aliser vos propre script custom.", 
+            "title": "Configuration avanc\u00e9e"
+        }, 
+        {
+            "location": "/restauration/", 
+            "text": "Restauration d'une sauvegarde\n#\n\n\nR\u00e9cup\u00e9ration du fichier\n#\n\n\nVous devez commencer par t\u00e9l\u00e9charger votre sauvegarde directement via votre panel\n\n\nSuppresion du chiffrement de la sauvegarde\n#\n\n\nUne fois que vous avez r\u00e9cup\u00e9rer le fichier, vous devez d\u00e9chiffrer celui-ci, pour cela, voici la commande :\nopenssl aes-256 -d -a -in VOTRE_SAUVEGARDE.tar.gz -out VOTRE_SAUVEGARDE_decrypt.tar.gz\n\n\nD\u00e9sarchivage de l'archive\n#\n\n\nVous pouvez maintenant d\u00e9sarchiver votre sauvegarde et restaurer vos donn\u00e9e.", 
+            "title": "Restauration"
+        }, 
+        {
+            "location": "/restauration/#restauration-dune-sauvegarde", 
+            "text": "", 
+            "title": "Restauration d'une sauvegarde"
+        }, 
+        {
+            "location": "/restauration/#recuperation-du-fichier", 
+            "text": "Vous devez commencer par t\u00e9l\u00e9charger votre sauvegarde directement via votre panel", 
+            "title": "R\u00e9cup\u00e9ration du fichier"
+        }, 
+        {
+            "location": "/restauration/#suppresion-du-chiffrement-de-la-sauvegarde", 
+            "text": "Une fois que vous avez r\u00e9cup\u00e9rer le fichier, vous devez d\u00e9chiffrer celui-ci, pour cela, voici la commande :\nopenssl aes-256 -d -a -in VOTRE_SAUVEGARDE.tar.gz -out VOTRE_SAUVEGARDE_decrypt.tar.gz", 
+            "title": "Suppresion du chiffrement de la sauvegarde"
+        }, 
+        {
+            "location": "/restauration/#desarchivage-de-larchive", 
+            "text": "Vous pouvez maintenant d\u00e9sarchiver votre sauvegarde et restaurer vos donn\u00e9e.", 
+            "title": "D\u00e9sarchivage de l'archive"
+        }
+    ]
+}
